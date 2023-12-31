@@ -1,0 +1,10 @@
+0 EnPanne Mazda MX-5 1998 165TUN8547 396.410 Disponible
+1 EnPanne Isuzu i-Series 2007 88TUN1458 300.970 Disponible
+2 EnService Dodge Ram50 1992 192TUN4569 155.800 NonDisponible
+3 EnService Porsche 911 2012 188TUN2548 153.480 NonDisponible
+4 EnService Dodge Caravan 2000 166TUN4985 338.390 Disponible
+5 EnPanne Acura TSX 2012 154TUN1269 63.360 NonDisponible
+6 EnService Honda Element 2008 212TUN12 144.710 Disponible
+7 EnService Kia Sephia 1994 233TUN8965 338.390 Disponible
+8 EnService Lexus GS 2002 240TUN7895 329.050 Disponible
+9 EnService Ford F350 2002 236TUN4587 111.050 NonDisponible
