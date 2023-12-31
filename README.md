@@ -1,12 +1,8 @@
-### Car Rental Application (E-CARS) Documentation
-
-This documentation provides an overview and user guide for the Car Rental Application.
-
 #### Contents
 
 1. Introduction
 2. Features
-3. Use
+3. Use :
     - 1. Search available cars
     - 2. Rent a car
     - 3. Show description of a car
